@@ -71,7 +71,7 @@
         "phantomjs-prebuilt": "^2.1.7",
         "purify-css": "^1.2.5",
         "purifycss-webpack": "^0.7.0",
-        "shelljs": "^0.3.0",
+        "shelljs": "^0.8.5",
         "string-replace-loader": "2.1",
         "uglify-es": "~3.3.9",
         "uglifyjs-webpack-plugin": "~1.2.7",
